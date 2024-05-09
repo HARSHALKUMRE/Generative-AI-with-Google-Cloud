@@ -1,0 +1,81 @@
+1. What does GAN stand for in the context of Generative AI with Google Cloud?
+a. Generative Artificial Network
+b. Generative Adversarial Network
+c. Google AI Network
+d. Generalized Activation Neuralnet
+Ans:- GAN stands for Generative Adversarial Network in the context of Generative AI with Google Cloud.
+
+2. Which Google Cloud service can be used for large-scale machine learning and data processing?
+a. Google Cloud Functions
+b. Google Cloud AI Platform
+c. Google Cloud SQL
+d. Google Cloud Pub/Sub
+Ans:- Google Cloud AI Platform is used for large-scale machine learning and data processing tasks.
+
+3. What programming language is commonly used for implementing machine learning models on Google Cloud?
+a. Java
+b. Python
+c. C#
+d. PHP
+Ans:- Python is commonly used for implementing machine learning models on Google Cloud due to its flexibility and availability of libraries like TensorFlow.
+
+4. What is AutoML in the context of Google Cloud AI?
+a. A programming language
+b. An automated machine learning tool
+c. A cloud computing service
+d. A hardware device
+Ans:- AutoML is a suite of machine learning products that enables developers with limited machine learning expertise to train high-quality models.
+
+5. In the context of Generative AI, what is the primary role of the generator in a GAN model?
+a. To classify input data
+b. To optimize loss function
+c. To create new data samples
+d. To visualize model performance
+Ans:- The primary role of the generator in a GAN model is to create new data samples that resemble the training data.
+
+6. What is the purpose of using Cloud Storage in the context of Google Cloud AI Platform?
+a. To design user interfaces
+b. To train machine learning models
+c. To store data, models and resources
+d. To deploy web applications
+Ans:- Cloud Storage in Google Cloud AI Platform is used to store large datasets, trained models, and other resources for machine learning projects.
+
+7. Which of the following is NOT a type of neural network commonly used in Generative AI?
+a. Recurrent Neural Networks (RNNs)
+b. Convolutional Neural Networks (CNNs)
+c. Deep Belief Networks (DBNs)
+d. Support Vector Machines (SVMs)
+Ans:- Support Vector Machines (SVMs) are not a type of neural network commonly used in Generative AI.
+
+8. What is the main benefit of using pre-trained models in machine learning projects?
+a. Improved model accuracy
+b. Reduced training time and resources
+c. Increased model complexity
+d. Enhanced interpretability
+Ans:- Using pre-trained models saves time and computational resources required to train a model from scratch.
+
+9. Which of the following is a common technique used to prevent overfitting in machine learning models?
+a. Data augmentation
+b. Dropout
+c. Regularization
+d. Batch normalization
+Ans:- Regularization is a common technique used to prevent overfitting by adding a penalty term to the model's loss function.
+
+10. Which Google Cloud AI service provides a serverless platform for building event-driven applications?
+a.Google Cloud ML Engine
+b. Google Cloud Functions
+c. Google Cloud AutoML
+d. Google Cloud AI Platform
+Ans:- Google Cloud Functions provide a serverless platform for building event-driven applications.
+
+11. In the context of Generative AI, what is the discriminator's role in a GAN model?
+a. To generate new data samples
+b. To classify input data
+c. To evaluate generated samples
+d. To optimize loss functions
+Ans:- The discriminator in a GAN model evaluates the generated samples and tries to distinguish between real and generated data.
+
+12. True or False: Transfer learning allows a model to leverage knowledge from one domain to another.
+a. True
+b. False
+Ans:- True. Transfer learning enables a model to transfer knowledge from a source domain to a target domain, typically improving performance in the target domain.
