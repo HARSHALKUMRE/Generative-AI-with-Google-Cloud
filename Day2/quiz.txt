@@ -1,0 +1,90 @@
+## Building transformative LLM applications on Google Cloud: Quiz
+
+1. What does LLM stand for in the context of Google Cloud applications?
+a. Large Learning Models
+b. Long Language Models
+c. Large Language Models
+d. Limited Learning Machines
+Ans:- LLM stands for Large Language Models. These are AI models that can understand and generate human language. They are crucial in various applications like natural language processing and text generation.
+
+2. Which Google Cloud service is commonly used for building serverless applications?
+a. Google Cloud Compute Engine
+b. Google Cloud Run
+c. Google Cloud Functions
+d. Google App Engine
+Ans:- Google Cloud Functions is a serverless execution environment for building and connecting cloud services. It allows you to write single-purpose functions in Node.js, Python, Go, etc.
+
+3. Which Google Cloud database service is fully managed and allows for automatic scaling?
+a. Google Cloud Firestore
+b. Google Cloud SQL
+c. Google Cloud Spanner
+d. Google Cloud Bigtable
+Ans:- Google Cloud Spanner is a fully managed, scalable, and high-performance relational database service. It is designed for global applications and combines the benefits of traditional databases with horizontal scaling.
+
+4. What is a key benefit of using Kubernetes for containerized applications on Google Cloud?
+a. Manual container deployment
+b. Automatic container scheduling
+c. Automated container management
+d. Limited container isolation
+Ans:- Kubernetes provides automated container deployment, scaling, and management. It helps in abstracting the underlying infrastructure and enabling easier application management.
+
+5. Which Google Cloud service can be used to train and deploy machine learning models at scale?
+a. Google Cloud Functions
+b. Google Cloud Spanner
+c. Google Cloud AI Platform
+d. Google Cloud BigQuery
+Ans:- Google Cloud AI Platform provides a comprehensive set of tools for machine learning practitioners to build, train, and deploy models at scale. It integrates with other Google Cloud services for data handling and processing.
+
+6. In the context of Google Cloud networking, what does VPC stand for?
+Virtual Public Cloud
+Virtual Processing Cluster
+Virtual Private Cloud
+Virtual Protection Center
+Ans:- VPC stands for Virtual Private Cloud. It allows you to create a logically isolated network space in the cloud where you can deploy resources like VMs, Kubernetes clusters, and more.
+
+7. Which authentication method can be used to secure access to Google Cloud resources?
+Basic access authentication
+OAuth 1.0a
+Google Cloud IAM
+JWT token authentication
+Ans:- Google Cloud IAM (Identity and Access Management) allows you to manage and control access to resources by defining who (identity) has what access (role) for which resources. It helps in securing and governing resources effectively.
+
+8. Which Google Cloud service can be used for real-time stream processing of data?
+Google Cloud Pub/Sub
+Google Cloud Dataproc
+Google Cloud Dataflow
+Google Cloud BigQuery
+Ans:- Google Cloud Dataflow is a fully managed service for stream and batch processing. It helps in building pipelines for processing data in real-time, making it ideal for data analytics and ETL processes.
+
+9. Which Google Cloud service is designed for large-scale data warehousing and analytics?
+Google Cloud Spanner
+Google Cloud Bigtable
+Google Cloud BigQuery
+Google Cloud Firestore
+Ans:- Google Cloud BigQuery is a serverless, highly scalable, and cost-effective multi-cloud data warehouse. It is suitable for running ad-hoc SQL queries on large datasets and performing analytics at scale.
+
+10. True or False: Google Cloud Run allows you to deploy and manage containers without worrying about the underlying infrastructure.
+True
+False
+Ams:- True. Google Cloud Run is a fully managed platform that abstracts away infrastructure management, allowing developers to focus on building and deploying containerized applications easily.
+
+11. Which Google Cloud tool can help optimize costs by analyzing resource usage and making recommendations?
+Google Cloud Trace
+Google Cloud Profiler
+Google Cloud Operations Suite
+Google Cloud Diagnostics
+Ans:- Google Cloud Operations Suite provides tools like Google Cloud Monitoring, Logging, Trace, and Debugger to monitor, troubleshoot, and optimize the performance of applications running on Google Cloud.
+
+12. Which Google Cloud service can be used to build and deploy secure, global, and highly available applications?
+Google Cloud Load Balancing
+Google Cloud CDN
+Google Cloud Armor
+Google Cloud DNS
+Ans:- Google Cloud Load Balancing provides scalable and fault-tolerant traffic distribution to backend instances across the globe. It helps in ensuring high availability and performance for applications.
+
+13. What is a benefit of using Google Cloud CDN for serving content?
+Increase latency for users
+Decrease web performance
+Improve content delivery speed
+Add complexity to content delivery
+Ans:- Google Cloud CDN caches content at Google's globally distributed edge locations, reducing latency and serving content to users with lower latency. This helps in improving web performance and user experience.
